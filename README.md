@@ -1,5 +1,6 @@
 
 In terminal in root directory:
+	
 	npm install
 	
 	cd client
